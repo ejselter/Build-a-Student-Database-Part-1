@@ -1,5 +1,5 @@
-# Build-a-Student-Database-Part-1
-Free Code Camp Student Database Part 1
+# Build-a-Student-Database
+Free Code Camp Student Database
 
 ## CSV files
   * Contains data for database in csv format
@@ -7,5 +7,9 @@ Free Code Camp Student Database Part 1
 ## Insert_data.sh
   * Script for adding data from csv to database using psql
 
-  ## Students.sql
+## Student_info.sh
+  * Script for curating data from sql file
+
+## Students.sql
   * SQL databse of student and courses data
+
